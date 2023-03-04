@@ -35,7 +35,7 @@ print(f"La primera letra es: {ultima}")
 #4:
 lista_inv =lista_texto[::-1]
 textoinv = " ".join(lista_inv)
-print(F"Su texto invertido: \n{textoinv}")
+print(f"Su texto invertido: \n{textoinv}")
 
 #5:
 resultado= texto.find("Python")
