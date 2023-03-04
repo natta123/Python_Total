@@ -1,3 +1,5 @@
+#Ejem. de uso de metodos para fragmentar str
+
 texto= "ABCDEFGHIJKLM"
 fragmento= texto[2:5]
 print(fragmento)

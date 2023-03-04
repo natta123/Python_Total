@@ -1,3 +1,5 @@
+#Ejemplo de distintos metodos string
+
 texto= "Este es el texto de Nata"
 
 resultado= texto.upper()
@@ -74,6 +76,3 @@ texto= "Este es el texto de Nata"
 resultado= texto.replace("e","X")
 
 print(resultado)
-
-
-
