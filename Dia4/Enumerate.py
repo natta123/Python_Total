@@ -23,6 +23,6 @@ for indice, item in enumerate(range(50,55)):
 
 lista= ["a","b","c"]
 
-mis_tuples= list(enumerate(lista))
+mis_tuples= list((lista))
 
 print(mis_tuples)
